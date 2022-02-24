@@ -1,5 +1,5 @@
 /tfod
-/Tensorflow
-/.ipynb_checkpoints
-/ipynb_checkpoints
-.ipynb_checkpoints
+/tensorflow/labelimg
+/tensorflow/models
+/tensorflow/protoc
+/tensorflow/scripts
